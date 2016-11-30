@@ -1,2 +1,2 @@
-var app = getElementById('app');
+var app = document.getElementById('app');
 app.innerHTML = 'Hello!'
